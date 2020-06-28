@@ -1,11 +1,11 @@
 //////////////////////////////////////////////////////////
-// File Name	: prog2.c								//
-// Date			: 2020/05/22							//
-// OS			: Windows 10							//
-// Author		: Park Tae Sung							//
+// File Name		: prog2.c			//
+// Date			: 2020/05/22			//
+// OS			: Windows 10			//
+// Author		: Park Tae Sung			//
 // ---------------------------------------------------- //
-// Title: Computer Networking Assignment #2				//
-// Description: Bidirectional GBN						//
+// Title: Computer Networking Assignment #2		//
+// Description: Bidirectional GBN			//
 //////////////////////////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h> /* for malloc, free, srand, rand */
